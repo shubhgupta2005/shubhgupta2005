@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Shubh Gupta, currently aspiring to ba a Data Science Engineer currently wokring on projects based on machine learning and NLP(Natural Language Processing ). I am currently persuing my B-tech in Electrical And Computer Engineering.
+
 <!--
 **shubhgupta2005/shubhgupta2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
